@@ -1,0 +1,11 @@
+{
+  "name": "megakit",
+  "version": "0.0.1",
+  "description": "A tool for bootstrapping large JavaScript projects",
+  "author": "Tenor <tenorbiel@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/L8D/megakit/tree/master/packages/megakit-cli",
+  "bin": {
+    "megakit": "./bin/megakit.js"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "megakit-repo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A tool for bootstrapping large JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/L8D/megakit.git"
+  },
+  "keywords": [
+    "megakit",
+    "npm-init",
+    "cli",
+    "lerna"
+  ],
+  "author": "Tenor <tenorbiel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L8D/megakit/issues"
+  },
+  "homepage": "https://github.com/L8D/megakit#readme",
+  "devDependencies": {
+    "lerna": "^3.10.7"
+  }
+}
