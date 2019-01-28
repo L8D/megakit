@@ -1,0 +1,15 @@
+{
+  "name": "megakit-recipe-license",
+  "version": "0.0.1",
+  "description": "A megakit recipe for prompting generating a LICENSE file.",
+  "author": "Tenor <tenorbiel@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/L8D/megakit/tree/master/packages/megakit-recipe-license",
+  "dependencies": {
+    "generator-license": "^5.4.0"
+  },
+  "devDependencies": {
+    "mz": "^2.7.0",
+    "yeoman-test": "^1.9.1"
+  }
+}
