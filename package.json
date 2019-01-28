@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/L8D/megakit#readme",
   "devDependencies": {
+    "jest": "^24.0.0",
     "lerna": "^3.10.7"
   }
 }
